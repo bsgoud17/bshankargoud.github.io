@@ -6,49 +6,50 @@ Kukatpally, Hyderabad
 Email: bsgoud.mtech@gmail.com  
 Phone:+919849309356
 
-PERSONAL PROFILE:
+#PERSONAL PROFILE:
 
-Fathername:Paramesham
-Date of Birth:06thMAY 1983
-Gender:	Male
-Marital Status:Married.
-Languages Known:English, Hindi and Telugu
-Nationality:Indian. 
+Fathername: 	Paramesham  
+Date of Birth: 	06thMAY 1983  
+Gender:		Male  
+Marital Status:	Married  
+Languages Known:English, Hindi and Telugu  
+Nationality:	Indian  
 
-TEACHING EXPERIENCE AS LECTURER:
+#TEACHING EXPERIENCE AS LECTURER:
 
 9+years of Experience in teaching Mathematics & Computer Science as a 
-• Assistant Professor(c) in Department of Mathematics at Jawaharlal Nehru Technological University, Hyderabad: from 2019- Till Date.
-• Lecturer in Department of Mathematics at Jawaharlal Nehru Technological University, Hyderabad: from Oct 2010- 2018.
+• Assistant Professor(c) in Department of Mathematics at Jawaharlal Nehru Technological University, Hyderabad: from 2019- Till Date.  
+• Lecturer in Department of Mathematics at Jawaharlal Nehru Technological University, Hyderabad: from Oct 2010- 2018.  
 • Guest Lecturer in Center for Biotechnology at Institute of Science and technology, Hyderabad from Aug2011-Jan 2012, Aug2012-Jan         2013,Aug2013-Jan 2014,Augt2016-Jan 2017,Aug2017-Jan 2018,Aug2017-Jan 2018. 
 
-SUBJECTS TAUGHT AT JNTUH COLLEGE OF ENGINEERING
+#SUBJECTS TAUGHT AT JNTUH COLLEGE OF ENGINEERING
 
-• Engineering Mathematics-I,II,III,
-• Computational mathematics theory ,
-• Computational mathematics Lab using C- Language and MATLAB,
-• Computer Oriented and Statistical Analysis,
-• Probability & Statistics,
-• Numerical analysis,
-• Linear algebra, C, C++, MATLAB, R-programming.
+• Engineering Mathematics-I,II,III  
+• Computational mathematics theory  
+• Computational mathematics Lab using C- Language and MATLAB  
+• Computer Oriented and Statistical Analysis  
+• Probability & Statistics  
+• Numerical analysis  
+• Linear algebra, C, C++, MATLAB, R-programming  
 
-SUBJECTS TAUGHT AT   CENTER FOR BIOTECHNOLOGY
+#SUBJECTS TAUGHT AT CENTER FOR BIOTECHNOLOGY, JNTU Hyderabad
 	
-•	Basic Mathematics and Biostatistics,
-•	Fundamental of mathematics & Biostatics,
-•	Numerical Methods for Engineers.
+• Basic Mathematics and Biostatistics  
+• Fundamental of mathematics & Biostatics  
+• Numerical Methods for Engineers  
 
-EDUCATION PROFILE:
+#EDUCATION PROFILE
 
-	Ph.D. Applied Mathematics awarded in 24thAugust 2018 in the department of Mathematics JNTUH College of Engineering, Kukatpally, Hyderabad.
-	Thesis title: STUDY OF HYDROMAGNETIC FREE CONVECTIVE HEAT AND MASS TRANSFER FLUID FLOWS
-	M.Tech(Computer Science &Engineering) from CVSR college of Engineering passed with 64%affiliated to JNTU Hyderabad.
-	M.Sc (Maths with Computer Science) from University College of Science Passed with 67%marks Osmania University.
-	B.Ed( Mathematics & Physical Science): First Division (67%) DVM College of Education, Nalgonda, affiliated to Osmania University.
-	B.Sc (Mathematics, Physics, Computer Science) First Division (85.35%) The NalgondaDegree of arts & science Nalgonda affiliated to Osmania University.
-	Intermediate (Mathematics, Physics, Chemistry) first Division (78%) from The Nalgonda College of arts & Science recognized by Board of Intermediate Education.
-	S.S.C First Division (73.66%) from Z.P.H.S, Yerrabally .Recognized by Secondary Education.
-LIST OF PUBLICATIONS: 
+• Ph.D. Applied Mathematics awarded in 24thAugust 2018 in the department of Mathematics JNTUH College of Engineering, Kukatpally, Hyderabad.  
+	Thesis title: STUDY OF HYDROMAGNETIC FREE CONVECTIVE HEAT AND MASS TRANSFER FLUID FLOWS  
+• M.Tech(Computer Science &Engineering) from CVSR college of Engineering passed with 64% affiliated to JNTU Hyderabad.  
+• M.Sc (Maths with Computer Science) from University College of Science Passed with 67% marks Osmania University.  
+• B.Ed( Mathematics & Physical Science): First Division (67%) DVM College of Education, Nalgonda, affiliated to Osmania University.  
+• B.Sc (Mathematics, Physics, Computer Science) First Division (85.35%) The NalgondaDegree of arts & science Nalgonda affiliated to Osmania University.  
+• Intermediate (Mathematics, Physics, Chemistry) first Division (78%) from The Nalgonda College of arts & Science recognized by Board of Intermediate Education.  
+• S.S.C First Division (73.66%) from Z.P.H.S, Yerrabally .Recognized by Secondary Education.  
+
+#LIST OF PUBLICATIONS: 
 
 1.	B. Shankar Goud, Pudhari Srilatha, MN Raja Shekar “Effects of Mass Suction on MHD Boundary Layer Flow and Heat Transfer over a Porous Shrinking Sheet with Heat Source/Sink” International Journal of Innovative Technology and Exploring Engineering, 8(10), pp-263-266, 2019.(scopus)
 2.	G. Bal Reddy., B. Shankar Goud., and MN. Raja Shekar“Numerical study on MHD stagnation point flow of nanofluid towards a stretching surface with Radiationeffect”,International Journal of Advanced Science and Technology (IJAST),Vol-127-June, pp.362-372, 2019.
@@ -77,7 +78,7 @@ UGC LISTED JOURNALS
 23.	B.ShankarGoud., MN. Raja Shekar, “Effects of thermal radiation and heat source on MHD free convection over a vertical plate with thermal diffusion and diffusion thermo”, International Journal of Mathematical Archive-7(6), pp.114-125, 2016.
 
 
-INTERNATIONAL CONFERENCES:
+#INTERNATIONAL CONFERENCES:
 
 1.	B.ShankarGoud., MN. Raja Shekar :Implicit finite difference method for MHD flow of a micropolar fluid past a stretching sheet with heat transfer, Fifth International Conference on Computational Methods for Thermal Problems THERMACOMP2018, July 9-11, 2018, Indian Institute of Science, Bangalore, INDIA
 2.	B.ShankarGoud., Y. Dharmendhar Reddy : Chemical reaction effect on MHD Heat and Mass transfer fluid flow over a moving vertical plate with heat source and convective boundary condition, International  conference on Numerical Heat Transfer & Fluid Flow NHTFF-2018, January 19th -21st, 2018, organized by Department of Mathematics, National Institute of Technology(NIT) , Warangal, Telangana, India .
@@ -86,14 +87,14 @@ INTERNATIONAL CONFERENCES:
 
 
 
-NATIONAL CONFERENCES:
+#NATIONAL CONFERENCES:
 
 1.	B.ShankarGoud., MN. Raja Shekar : Some effects on an Unsteady MHD flow past an impulsive started inclined Oscillating plate with Mass diffusion and variable temperature using finite element method, National conference on Recent Advances of Mathematical techniques in Science and Engineering, 30th& 31st July 2017, organized by Department of mathematics Osmania University, Telangana, India.
 2.	B.ShankarGoud., MN. Raja Shekar : Effects on MHD flow fast a parabolic started vertical plate with variable temperature and Mass diffusion in the presence of Viscous dissipation-FEM , Two days conference on contemporary Approach in scientific computing August 29th -30th 2017, organized by Department of mathematics, Osmania University, Hyderabad,  Telangana, India.
 3.	B. Shankar Goud: Finite element analysis of transient natural convection flow past an accelerated finite vertical plate, A Two day national Seminar on Recent Trends in Applications of Differential Equations (RTADE-2018), 19th-20th January2018, Organized by Department of Humanities & Sciences (Mathematics), Gurunanak Institutions technical campus (Autonomous), Talangana, India.
 4.	B. Shankar Goud, PudhariSrilatha :Solution of MHD flows of UCM fluids above porous stretching sheets, National conference on Air Conditioning, Heat Transfer and Energy Conservation -2018,17th  and 18th August 2018, Organized by Department of Mechanical Engineering, Sreyas Institute of Engineering and Technology, Telangana, India.
 
-WORKSHOPS:
+#WORKSHOPS:
 1.	Participated two day workshop on “NBA-Out come Based education & SAR Filling”, under TEQIP-III(ATU) organized by JNTUH Hyderabad  & RTU, Kota Rajasthan on  24th– 25thMay 2019.
 2.	Participatedthreedaysworkshop on “MATLAB Applications in Mechanical Engineering”,under TEQIP-III organized by Department of Mechanical Engineering, JNTUH College of Engineering Hyderabad on  13th– 15thMay 2019.
 3.	Participated one day seminar on “Applications of Mathematics in Science and Technology”,organized by Department of Mathematics,JNTUH College of Engineering Hyderabad on 18th& 19th Feb 2019.
@@ -109,22 +110,25 @@ WORKSHOPS:
 12.	Participated a two days national workshop on “Application of Mathematics in various branches of Engineering and Bio-Sciences”, under TEQIP-IIorganized by Department of Mathematics and Humanities, ChaitanyaBharathi Institute of Technology(CBIT) during  13th -14th Aug 2013.
 13.	Attended a six days “ Training programme for the Teacher of Engineering Colleges” sponsored by APSCHE in Association with JNTUH organized at JNTUH College of Engineering, Nachupally(Kondagattu), Karimnagar , on 19th -24th Nov 2012.
 
-COMPUTING SKILLS:
-Applications: Microsoft Office Suite, Internet Explorer, Paint etc.
-Softwares: Origin Lab, Photoshop.
-Operating Systems: Linux, Windows Vista, Windows XP.
-PROGRAMMING SKILLS
-	C,C++,
-	MATLAB, R Programming.
-OTHER INFORMATION (IF ANY):
-1.	Qualified CSIR-UGC NET for Assistant Professor/ Lecturer in December 2016.
-2.	Qualified Telangana state eligibility test for Lectureship Assistant Professor/ Lecturer   in JUNE 2017.
-OTHER SKILLS
-•	Knowledge of research methodologies.
-•	Data and information collection.
-•	Writing and presenting reports.
-•	Have lead several seminars for undergraduates and PG in the Department of Mathematics.
-•	Postgraduate Demonstrator, Regularly supervise practical’s for undergraduate students.
+#COMPUTING SKILLS:
+Applications: Microsoft Office Suite, Internet Explorer, Paint  
+Softwares: Origin Lab, Photoshop  
+Operating Systems: Linux, Windows Vista, Windows XP  
+
+#PROGRAMMING SKILLS
+• C,C++  
+• MATLAB, R Programming  
+
+#OTHER INFORMATION (IF ANY)  
+1. Qualified CSIR-UGC NET for Assistant Professor/ Lecturer in December 2016.  
+2. Qualified Telangana state eligibility test for Lectureship Assistant Professor/ Lecturer   in JUNE 2017.  
+
+#OTHER SKILLS
+• Knowledge of research methodologies.  
+• Data and information collection.  
+• Writing and presenting reports.  
+• Have lead several seminars for undergraduates and PG in the Department of Mathematics.  
+• Postgraduate Demonstrator, Regularly supervise practical’s for undergraduate students.  
 
 
 
