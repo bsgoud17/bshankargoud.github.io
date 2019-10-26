@@ -6,7 +6,7 @@ Kukatpally, Hyderabad
 Email: bsgoud.mtech@gmail.com  
 Phone:+919849309356
 
-#PERSONAL PROFILE:
+# PERSONAL PROFILE:
 
 Fathername: 	Paramesham  
 Date of Birth: 	06thMAY 1983  
@@ -15,14 +15,14 @@ Marital Status:	Married
 Languages Known:English, Hindi and Telugu  
 Nationality:	Indian  
 
-#TEACHING EXPERIENCE AS LECTURER:
+# TEACHING EXPERIENCE AS LECTURER:
 
-9+years of Experience in teaching Mathematics & Computer Science as a 
+9+years of Experience in teaching Mathematics & Computer Science as a   
 • Assistant Professor(c) in Department of Mathematics at Jawaharlal Nehru Technological University, Hyderabad: from 2019- Till Date.  
 • Lecturer in Department of Mathematics at Jawaharlal Nehru Technological University, Hyderabad: from Oct 2010- 2018.  
 • Guest Lecturer in Center for Biotechnology at Institute of Science and technology, Hyderabad from Aug2011-Jan 2012, Aug2012-Jan         2013,Aug2013-Jan 2014,Augt2016-Jan 2017,Aug2017-Jan 2018,Aug2017-Jan 2018. 
 
-#SUBJECTS TAUGHT AT JNTUH COLLEGE OF ENGINEERING
+# SUBJECTS TAUGHT AT JNTUH COLLEGE OF ENGINEERING
 
 • Engineering Mathematics-I,II,III  
 • Computational mathematics theory  
@@ -32,13 +32,13 @@ Nationality:	Indian
 • Numerical analysis  
 • Linear algebra, C, C++, MATLAB, R-programming  
 
-#SUBJECTS TAUGHT AT CENTER FOR BIOTECHNOLOGY, JNTU Hyderabad
+# SUBJECTS TAUGHT AT CENTER FOR BIOTECHNOLOGY, JNTU Hyderabad
 	
 • Basic Mathematics and Biostatistics  
 • Fundamental of mathematics & Biostatics  
 • Numerical Methods for Engineers  
 
-#EDUCATION PROFILE
+# EDUCATION PROFILE
 
 • Ph.D. Applied Mathematics awarded in 24thAugust 2018 in the department of Mathematics JNTUH College of Engineering, Kukatpally, Hyderabad.  
 	Thesis title: STUDY OF HYDROMAGNETIC FREE CONVECTIVE HEAT AND MASS TRANSFER FLUID FLOWS  
