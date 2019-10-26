@@ -1,9 +1,9 @@
-## SHANKAR GOUD BEJAWADA
-Assistant Professor(Adhoc) in Mathematics,
-Departmentof Mathematics,
-JNTUH  College of Engineering,
-Kukatpally, Hyderabad
-Email: bsgoud.mtech@gmail.com
+## SHANKAR GOUD BEJAWADA  
+Assistant Professor(Adhoc) in Mathematics,  
+Departmentof Mathematics,  
+JNTUH  College of Engineering,  
+Kukatpally, Hyderabad  
+Email: bsgoud.mtech@gmail.com  
 Phone:+919849309356
 
 PERSONAL PROFILE:
